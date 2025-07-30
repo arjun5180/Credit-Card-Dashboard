@@ -1,7 +1,7 @@
-🚀 Credit Card Dashboard | SQL + Power BI
+## Credit Card Dashboard | SQL + Power BI
 
 I built a comprehensive credit card analysis dashboard using SQL, Power BI, DAX, and Power Query to explore customer behavior, spending patterns, and transaction performance.
-# 🔧 Tools Used
+## 🔧 Tools Used
 🔹 SQL: Created normalized tables (cc_details, cust_details), handled date conversion using STR_TO_DATE(), and used a staging table (cc_details_temp) for clean data migration.
 
 🔹 Power BI: Designed two interactive dashboards:
@@ -15,7 +15,7 @@ I built a comprehensive credit card analysis dashboard using SQL, Power BI, DAX,
 - **Q3** showed peak weekly revenue across the year
 - Most activity concentrated in age groups **30–60** and income group **Low**
 
-🛠️ Skills Applied:
+## 🛠️ Skills Applied:
 
 SQL (DDL/DML, date functions, data migration)
 
@@ -25,7 +25,7 @@ DAX (KPIs, calculated columns, measures)
 
 Data storytelling through interactive visuals
 
-🎯 What I Learned:
+## 🎯 What I Learned:
 
 Translating raw transaction data into meaningful business insights
 
